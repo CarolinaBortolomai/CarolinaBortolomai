@@ -1,11 +1,17 @@
-# Carolina Bortolomai  👋
+# Olá, eu sou a Carolina Bortolomai  👋
 
+Sou formada em Engenharia de Produção e tenho experiência na área de supply chain em indústrias.
 
-Atualmente,...
+Atualmente venho estudando Data Science, aprendendo a linguagem de programação Python e como fazer análise exploratória de dados com suas bibliotecas, além também de estar estudando SQL e outras ferramentas de BI, como Power BI e Tableau.
+
+Tenho um perfil analítico, adoro a cultura Data Driven, e quero ajudar as empresas e pessoas a solucionar problemas através da tecnologia e análise de dados.
 
 
 Skills:
 Python
+SQL
+Power BI
+Tableau
 
 
 
