@@ -13,8 +13,8 @@ SQL
 Power BI
 Tableau
 
-Estudos:
-[Análise de Séries Temporais]<https://github.com/CarolinaBortolomai/CarolinaBortolomai/blob/main/Series_Temporais.ipynb>
+Estudos:</br>
+[Análise de Séries Temporais](https://github.com/CarolinaBortolomai/CarolinaBortolomai/blob/main/Series_Temporais.ipynb)
 
 <!--
 **CarolinaBortolomai/CarolinaBortolomai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
